@@ -1,0 +1,2 @@
+# WiFiShareDemo
+利用Multipeer Connectivity框架进行WiFi传输
